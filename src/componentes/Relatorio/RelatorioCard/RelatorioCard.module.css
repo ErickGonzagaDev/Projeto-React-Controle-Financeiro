@@ -1,0 +1,16 @@
+.relatorioCard{
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    border-bottom: 1px solid gray;
+    text-transform: capitalize;
+}
+
+.relatorioCard  h1, p, span{
+    width: 30%;
+    text-align: center;
+
+}
+

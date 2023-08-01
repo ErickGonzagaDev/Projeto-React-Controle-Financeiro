@@ -1,0 +1,13 @@
+.relatorio{
+    background-color: white;
+    width: 80%;
+    margin: 20px auto;
+    border-radius: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
+    text-align: center;
+}
+

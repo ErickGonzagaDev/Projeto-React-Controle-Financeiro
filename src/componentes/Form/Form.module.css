@@ -1,0 +1,44 @@
+.form {
+    background-color: white;
+    border-radius: 10px;
+    width: 80%;
+    margin: 30px auto 0px auto;
+    padding: 40px 20px;
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.397);
+}
+
+.formInput{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.formInput input{
+    margin: 0 auto;
+    width: 90%;
+    border: none;
+    background-color: #f2f2f2;
+    padding: 16px;
+    border-radius: 10px;
+    caret-color:rgb(8, 202, 193); 
+    outline-color: rgb(8, 202, 193);;
+}
+
+button{
+    border: none;
+    background-color: rgb(8, 202, 193);
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    width: 40%;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+
